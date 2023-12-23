@@ -1,0 +1,7 @@
+*.orig
+*.rej
+*.bak
+*.o
+config.h
+dmenu_run
+dmenu_path
